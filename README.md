@@ -12,7 +12,6 @@ Hello, I'm Esteban Ortega, I'm a programmer, front end, passionate about technol
 
 ![esteban stats](https://github-readme-stats.vercel.app/api?username=estebanortega)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
